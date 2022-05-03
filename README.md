@@ -1,2 +1,2 @@
-# 1969Mancinelli
+# My Exercises
 Public Repository of My Studies
